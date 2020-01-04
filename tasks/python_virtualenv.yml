@@ -9,7 +9,7 @@
   include_role:
     name: Stouts.python
   vars:
-    python_versions: [2.7]
+    python_versions: ['2.7']
 
 - name: Install Python 2 virtualenv packages
   pip: 
