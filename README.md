@@ -44,7 +44,8 @@ ansible-playbook playbook.yml
  - [Arjun](https://github.com/s0md3v/Arjun) - Arjun is an HTTP parameter discovery suite.
  - [AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
  - [BloodHound](https://github.com/BloodHoundAD/BloodHound) - Six Degrees of Domain Admin.
- - [chisel](https://github.com/jpillora/chisel) - A fast TCP tunnel over HTTP
+ - [chisel](https://github.com/jpillora/chisel) - A fast TCP tunnel over HTTP.
+ - [Enum4LinuxPy](https://github.com/0v3rride/Enum4LinuxPy) - Everyone's favorite SMB/SAMBA/CIFS enumeration tool ported over to Python.
  - [evil-winrm](https://github.com/Hackplayers/evil-winrm) - The ultimate WinRM shell for hacking/pentesting.
  - [gobuster](https://github.com/OJ/gobuster) - Directory/File, DNS and VHost busting tool written in Go
  - [LinEnum](https://github.com/rebootuser/LinEnum) - Local Linux Enumeration & Privilege Escalation Script 
@@ -124,6 +125,7 @@ Please read [CONTRIBUTING.md](https://github.com/BrashEndeavours/hotwax/blob/mas
 * **richlamdev** - [ssh-os](https://github.com/richlamdev/ssh-default-banners)
 * **harmj0y** - [empire](https://github.com/EmpireProject/Empire)
 * **foofus** - [foofus.net](http://foofus.net/goons/jmk/medusa/medusa.html)
+* **0v3rride** - [foofus.net](https://github.com/0v3rride/Enum4LinuxPy)
 
 ## License
 
