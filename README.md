@@ -74,6 +74,7 @@ ansible-playbook playbook.yml
  - [ssh-os](https://github.com/richlamdev/ssh-default-banners) - Nmap Script that identifies Debian, Ubuntu, FreeBSD version based on default SSH banner response.
  - [empire](https://github.com/EmpireProject/Empire) - Empire is a post-exploitation framework that includes a pure-PowerShell2.0 Windows agent, and a pure Python 2.6/2.7 Linux/OS X agent.
  - [medusa](http://foofus.net/goons/jmk/medusa/medusa.html) - Medusa is a speedy, parallel, modular login brute-forcer.  Similar to ncrack and Hydra.
+ - [PEASS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - These tools search for possible local privilege escalation paths that you could exploit and print them to you with nice colors so you can recognize the misconfigurations easily.
 
 ## Contributing
 
@@ -124,7 +125,8 @@ Please read [CONTRIBUTING.md](https://github.com/BrashEndeavours/hotwax/blob/mas
 * **richlamdev** - [ssh-os](https://github.com/richlamdev/ssh-default-banners)
 * **harmj0y** - [empire](https://github.com/EmpireProject/Empire)
 * **foofus** - [foofus.net](http://foofus.net/goons/jmk/medusa/medusa.html)
-* **0v3rride** - [foofus.net](https://github.com/0v3rride/Enum4LinuxPy)
+* **0v3rride** - [Enum4LinuxPy](https://github.com/0v3rride/Enum4LinuxPy)
+* **Carlos Polop** - [PEASS](https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite) - These tools search for possible local privilege escalation paths that you could exploit and print them to you with nice colors so you can recognize the misconfigurations easily.
 
 ## License
 

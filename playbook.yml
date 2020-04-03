@@ -36,6 +36,7 @@
   - include_tasks: tasks/install_one-lin3r.yml
   - include_tasks: tasks/install_oscp_report_templates.yml
   - include_tasks: tasks/install_payloadsallthethings.yml
+  - include_tasks: tasks/install_peass.yml
   - include_tasks: tasks/install_polenum.yml
   - include_tasks: tasks/install_pwntools.yml
   - include_tasks: tasks/install_powerless.yml
