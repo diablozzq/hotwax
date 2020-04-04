@@ -17,6 +17,12 @@
     executable: pip3
     requirements: /opt/Enum4LinuxPy/requirements.txt
 
+- name: Adjust autorecon config to use enum4linuxpy
+  replace:
+    path: /opt/autorecon/config/service-scans.toml
+    regexp: (enum4linux)
+    replace: enum4linuxpy
+
 - name: Set Enum4LinuxPy aliases
   set_fact:
     enum4linux_aliases: 
