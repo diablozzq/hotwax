@@ -19,48 +19,48 @@
   - include_tasks: tasks/python_virtualenv.yml
 
   - include_tasks: tasks/install_autorecon.yml
-  - include_tasks: tasks/install_arjun.yml
-  - include_tasks: tasks/install_bloodhound.yml
-  - include_tasks: tasks/install_chisel.yml
-  - include_tasks: tasks/install_custom_samba.yml
+#  - include_tasks: tasks/install_arjun.yml
+#  - include_tasks: tasks/install_bloodhound.yml
+#  - include_tasks: tasks/install_chisel.yml
+# - include_tasks: tasks/install_custom_samba.yml
   - include_tasks: tasks/install_enum4linuxpy.yml
-  - include_tasks: tasks/install_evil-winrm.yml
-  - include_tasks: tasks/install_gcc-multilib.yml
-  - include_tasks: tasks/install_git.yml
-  - include_tasks: tasks/install_gef.yml
+#  - include_tasks: tasks/install_evil-winrm.yml
+#  - include_tasks: tasks/install_gcc-multilib.yml
+#  - include_tasks: tasks/install_git.yml
+#  - include_tasks: tasks/install_gef.yml
   - include_tasks: tasks/install_gobuster.yml
-  - include_tasks: tasks/install_impacket.yml
+#  - include_tasks: tasks/install_impacket.yml
   - include_tasks: tasks/install_linenum.yml
-  - include_tasks: tasks/install_nishang.yml
-  - include_tasks: tasks/install_nmap.yml
-  - include_tasks: tasks/install_one-lin3r.yml
+#  - include_tasks: tasks/install_nishang.yml
+#  - include_tasks: tasks/install_nmap.yml
+#  - include_tasks: tasks/install_one-lin3r.yml
   - include_tasks: tasks/install_oscp_report_templates.yml
-  - include_tasks: tasks/install_payloadsallthethings.yml
-  - include_tasks: tasks/install_peass.yml
-  - include_tasks: tasks/install_polenum.yml
-  - include_tasks: tasks/install_pwntools.yml
-  - include_tasks: tasks/install_powerless.yml
-  - include_tasks: tasks/install_powersploit.yml
-  - include_tasks: tasks/install_proxychains-ng.yml
-  - include_tasks: tasks/install_pspy.yml
+#  - include_tasks: tasks/install_payloadsallthethings.yml
+#  - include_tasks: tasks/install_peass.yml
+#  - include_tasks: tasks/install_polenum.yml
+#  - include_tasks: tasks/install_pwntools.yml
+#  - include_tasks: tasks/install_powerless.yml
+#  - include_tasks: tasks/install_powersploit.yml
+#  - include_tasks: tasks/install_proxychains-ng.yml
+#  - include_tasks: tasks/install_pspy.yml
   - include_tasks: tasks/install_seclists.yml
-  - include_tasks: tasks/install_sherlock.yml
-  - include_tasks: tasks/install_sshuttle.yml
-  - include_tasks: tasks/install_webshell.yml
-  - include_tasks: tasks/install_wkhtmltopdf.yml
-  - include_tasks: tasks/install_xsstrike.yml
-  - include_tasks: tasks/install_zauberfeder.yml
+#  - include_tasks: tasks/install_sherlock.yml
+#  - include_tasks: tasks/install_sshuttle.yml
+#  - include_tasks: tasks/install_webshell.yml
+#  - include_tasks: tasks/install_wkhtmltopdf.yml
+#  - include_tasks: tasks/install_xsstrike.yml
+#  - include_tasks: tasks/install_zauberfeder.yml
   - include_tasks: tasks/install_crackmapexec.yml
-  - include_tasks: tasks/install_windows-kernel-exploits.yml
-  - include_tasks: tasks/install_exiftool.yml
-  - include_tasks: tasks/install_html2text.yml
-  - include_tasks: tasks/install_mingw-w64.yml
-  - include_tasks: tasks/install_msfpc.yml
-  - include_tasks: tasks/install_wce.yml
-  - include_tasks: tasks/install_windows-exploit-suggester.yml
-  - include_tasks: tasks/install_pyftpdlib.yml
-  - include_tasks: tasks/install_ssh-os.yml
-  - include_tasks: tasks/install_empire.yml
-  - include_tasks: tasks/install_medusa.yml
+#  - include_tasks: tasks/install_windows-kernel-exploits.yml
+#  - include_tasks: tasks/install_exiftool.yml
+#  - include_tasks: tasks/install_html2text.yml
+#  - include_tasks: tasks/install_mingw-w64.yml
+#  - include_tasks: tasks/install_msfpc.yml
+#  - include_tasks: tasks/install_wce.yml
+#  - include_tasks: tasks/install_windows-exploit-suggester.yml
+#  - include_tasks: tasks/install_pyftpdlib.yml
+#  - include_tasks: tasks/install_ssh-os.yml
+#  - include_tasks: tasks/install_empire.yml
+#  - include_tasks: tasks/install_medusa.yml
 
-  - include_tasks: tasks/add_aliases.yml
+#  - include_tasks: tasks/add_aliases.yml

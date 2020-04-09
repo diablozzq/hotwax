@@ -113,7 +113,7 @@
     - python-dnspython
       #- python-gnupg
     - python-iso8601
-    - python-markdown
+    #- python-markdown
     - python-pexpect
     - python3
     - python3-crypto
